@@ -40,7 +40,8 @@
                     "f.glsl",
                     "v.glsl",
                     "g.glsl",
-                    "glsl"
+                    "glsl",
+                    "instrumented"
                 ],
                 "configuration": "./language-configuration.json"
             }
